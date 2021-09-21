@@ -29,7 +29,6 @@ Hello World!
 
 _Italic text here_
 
-&nbsp;
 **Bold text here**  
 
 &nbsp;
